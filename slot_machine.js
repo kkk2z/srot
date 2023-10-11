@@ -1,5 +1,5 @@
 const reels = document.getElementById('reels');
-const symbols = ['💰', '💶', '💣', '👱', '🍉', '🍓'];
+const symbols = ['💰', '💶', '💣', '👱', '🍉', '🍓','😺','☺'];
 
 function createSlotElements() {
     for (let i = 0; i < symbols.length; i++) {
